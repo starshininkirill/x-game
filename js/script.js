@@ -27,7 +27,7 @@ let winCombinationsO = [
 
 function playersViev() {
    playerOne.innerHTML = `Игрок X: ${playerOneScore}`
-   playerTwo.innerHTML = `Игрок X: ${playerTwoScore}`
+   playerTwo.innerHTML = `Игрок O: ${playerTwoScore}`
 }
 
 function printOnBoard(){
